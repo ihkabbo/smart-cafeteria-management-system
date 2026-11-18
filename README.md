@@ -81,12 +81,32 @@ Before running the application, users need to configure their own MySQL database
 
 ## Project Files
 
-- [Main Java Class](src/cafeteriamanagementsystem/CafeteriaManagementSystem.java) – Application entry point.
-- [GUI Package](src/cafeteriamanagementsystem/gui/) – Graphical user interface files.
-- [DAO Package](src/cafeteriamanagementsystem/dao/) – Database access classes.
-- [Service Package](src/cafeteriamanagementsystem/service/) – Application service classes.
-- [Smart_Cafeteria_Management_System.pdf](Smart_Cafeteria_Management_System.pdf) – Project documentation and report.
+### Main Application & Core Classes
 
+- [CafeteriaManagementSystem.java](src/cafeteriamanagementsystem/CafeteriaManagementSystem.java) – Main application entry point.
+- [Admin.java](src/cafeteriamanagementsystem/Admin.java)
+- [Category.java](src/cafeteriamanagementsystem/Category.java)
+- [DatabaseConnection.java](src/cafeteriamanagementsystem/DatabaseConnection.java)
+- [MenuItem.java](src/cafeteriamanagementsystem/MenuItem.java)
+- [Order.java](src/cafeteriamanagementsystem/Order.java)
+- [OrderItem.java](src/cafeteriamanagementsystem/OrderItem.java)
+- [Payment.java](src/cafeteriamanagementsystem/Payment.java)
+- [Stock.java](src/cafeteriamanagementsystem/Stock.java)
+- [Student.java](src/cafeteriamanagementsystem/Student.java)
+- [StudentSession.java](src/cafeteriamanagementsystem/StudentSession.java)
+- [User.java](src/cafeteriamanagementsystem/User.java)
+
+### DAO Package
+- [DAO Source Files](src/cafeteriamanagementsystem/dao/)
+
+### GUI Package
+- [GUI Source Files](src/cafeteriamanagementsystem/gui/)
+
+### Service Package
+- [Service Source Files](src/cafeteriamanagementsystem/service/)
+
+### Project Documentation
+- [Smart Cafeteria Management System – Project Report](Smart_Cafeteria_Management_System.pdf)
 ## Author
 
 **Developed by:** Md. Imran Hossen
