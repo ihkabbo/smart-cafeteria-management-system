@@ -89,6 +89,6 @@ Before running the application, users need to configure their own MySQL database
 
 ## Author
 
-**Developed by:** Ihkabbo
+**Developed by:** Md. Imran Hossen
 
 Academic project focused on Java programming, object-oriented programming, GUI development, database connectivity, and cafeteria management.
